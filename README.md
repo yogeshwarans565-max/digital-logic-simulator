@@ -1,6 +1,6 @@
 # Digital Logic Simulator
 
-**[Live demo →](https://YOUR_USERNAME.github.io/digital-logic-simulator/)**
+**[Live demo →](https://yogeshwarans565-max.github.io/digital-logic-simulator/)**
 
 An event-driven digital logic simulator written in pure Java (no external
 dependencies). It models gates, wires, and composite circuits the same way
